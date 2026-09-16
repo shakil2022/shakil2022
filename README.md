@@ -11,8 +11,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&duration=650&pause=4000&deleteSpeed=320&color=90A4AE&center=true&vCenter=true&width=1100&height=55&lines=Cyber+Security+%C2%B7+Federated+Learning+%C2%B7+Large+Language+Model+%C2%B7+Machine+Learning&loop=true"
-    alt="Research Interests"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&duration=650&pause=4000&deleteSpeed=320&color=90A4AE&center=true&vCenter=true&width=1100&height=55&lines=Research;Cyber+Security+%C2%B7+Federated+Learning+%C2%B7+Large+Language+Model+%C2%B7+Machine+Learning&loop=true"
+    alt="Research"
   />
 </p>
 
@@ -64,11 +64,11 @@
 
 I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">Lecturer</a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**.
 
-My research focuses on developing **secure, privacy-preserving, trustworthy, and data-efficient intelligent systems**, with particular interests in:
+I am passionate about **teaching, research, and developing practical intelligent solutions** to real-world problems. My academic and professional work combines computer science fundamentals with modern computational approaches, with an emphasis on building reliable and impactful technologies.
 
-**🔐 Cybersecurity · 🌐 Federated Learning · 🛡️ Privacy-Preserving AI · 🤖 Machine Learning · 🧠 Deep Learning · 🏥 Healthcare AI · 👁️ Computer Vision · ✨ Trustworthy AI · 🧩 Large Language Models**
+I actively work on **academic research, collaborative projects, and software development**, while contributing to undergraduate education through teaching, mentoring, and academic activities.
 
----
+I am always interested in **research collaboration, knowledge sharing, and opportunities to contribute to meaningful advancements in computer science and intelligent technologies.**
 
 ---
 
