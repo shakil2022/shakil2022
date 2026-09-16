@@ -1,25 +1,58 @@
-# 👋 Hi, I'm Md. Shakil Ahmed
-<table width="100%">
-<tr>
-<td width="45%" align="center">
+<!-- =========================
+     PROFESSIONAL ANIMATED HEADER
+     ========================= -->
 
-<a href="https://github.com/shakil2022">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=120&pause=1500&color=0A66C2&center=true&vCenter=true&width=430&height=70&lines=Md.+Shakil+Ahmed" alt="Md. Shakil Ahmed"/>
-</a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=100&pause=1800&color=5B8DB8&center=true&vCenter=true&width=700&height=60&lines=Md.+Shakil+Ahmed"
+    alt="Md. Shakil Ahmed"
+  />
+</p>
 
-<br>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=80&pause=1000&color=7A8FA6&center=true&vCenter=true&width=850&height=50&lines=Federated+Learning;Privacy--Preserving+AI;Cybersecurity;Machine+Learning;Deep+Learning;Healthcare+AI;Computer+Vision;Trustworthy+AI;Large+Language+Models"
+    alt="Research Interests"
+  />
+</p>
 
-<img src="https://img.shields.io/badge/Lecturer-Researcher-0B5CAD?style=for-the-badge&logo=academia&logoColor=white" alt="Lecturer Researcher"/>
+<p align="center">
+  <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">
+    <img
+      src="https://img.shields.io/badge/Lecturer%20%7C%20Researcher-6F8FAF?style=flat-square&logo=academia&logoColor=white"
+      alt="Lecturer | Researcher"
+    />
+  </a>
 
-</td>
+  <a href="https://scholar.google.com/citations?user=jIomJygAAAAJ&hl=en&authuser=3">
+    <img
+      src="https://img.shields.io/badge/Google%20Scholar-6F9FD8?style=flat-square&logo=google-scholar&logoColor=white"
+      alt="Google Scholar"
+    />
+  </a>
 
-<td width="55%" align="center">
+  <a href="mailto:shakil.ahmed@bubt.edu.bd">
+    <img
+      src="https://img.shields.io/badge/Email-9A7B7B?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=90&pause=1000&color=6F42C1&center=true&vCenter=true&width=600&height=120&multiline=true&lines=Federated+Learning;Privacy--Preserving+AI;Cybersecurity;Machine+Learning;Deep+Learning;Healthcare+AI;Computer+Vision;Trustworthy+AI;Large+Language+Models" alt="Research Interests"/>
+  <a href="https://www.linkedin.com/in/md-shakil-ahmed-6482b13b3/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-6D91B5?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-</td>
-</tr>
-</table>
+  <a href="https://github.com/shakil2022">
+    <img
+      src="https://img.shields.io/badge/GitHub-6F747A?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
   <a href="https://scholar.google.com/citations?user=jIomJygAAAAJ&hl=en&authuser=3">
     <img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
   </a>
