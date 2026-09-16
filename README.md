@@ -62,13 +62,9 @@
 
 ## About
 
-I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">Lecturer</a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**.
+I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">Lecturer</a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**. I am passionate about **teaching, research, and developing practical intelligent solutions** to real-world problems. My academic and professional work combines computer science fundamentals with modern computational approaches, with an emphasis on building reliable and impactful technologies.
 
-I am passionate about **teaching, research, and developing practical intelligent solutions** to real-world problems. My academic and professional work combines computer science fundamentals with modern computational approaches, with an emphasis on building reliable and impactful technologies.
-
-I actively work on **academic research, collaborative projects, and software development**, while contributing to undergraduate education through teaching, mentoring, and academic activities.
-
-I am always interested in **research collaboration, knowledge sharing, and opportunities to contribute to meaningful advancements in computer science and intelligent technologies.**
+I actively work on **academic research, collaborative projects, and software development**, while contributing to undergraduate education through teaching, mentoring, and academic activities. I am always interested in **research collaboration, knowledge sharing, and opportunities to contribute to meaningful advancements in computer science and intelligent technologies.**
 
 ---
 
@@ -76,9 +72,9 @@ I am always interested in **research collaboration, knowledge sharing, and oppor
 
 | **Repository**                                                                                | **Description**                                                                                                                                                                                           |
 | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 🔹 [**Learning-Management-System**](https://github.com/shakil2022/Learning-Management-System) | Role-based learning management system for course scheduling, content management, collaborative discussions, and real-time communication · *React · Node.js · Express · MongoDB*                           |
-| 🔹 [**Ecommerce-Website**](https://github.com/shakil2022/Ecommerce-Website)                   | University cafeteria platform for online food ordering, including menus, users, orders, payments, inventory, and delivery management · *HTML · CSS · React · JavaScript · Express.js · Node.js · MongoDB* |
-| 🔹 [**QR-Code-Scanner-main**](https://github.com/shakil2022/QR-Code-Scanner-main)             | Android application for QR-code generation, scanning, decoding, and information display · *Java · Android*                                                                                                |
+| [**Learning-Management-System**](https://github.com/shakil2022/Learning-Management-System) | Role-based learning management system for course scheduling, content management, collaborative discussions, and real-time communication · *React · Node.js · Express · MongoDB*                           |
+| [**Ecommerce-Website**](https://github.com/shakil2022/Ecommerce-Website)                   | University cafeteria platform for online food ordering, including menus, users, orders, payments, inventory, and delivery management · *HTML · CSS · React · JavaScript · Express.js · Node.js · MongoDB* |
+| [**QR-Code-Scanner-main**](https://github.com/shakil2022/QR-Code-Scanner-main)             | Android application for QR-code generation, scanning, decoding, and information display · *Java · Android*                                                                                                |
 
 ---
 
