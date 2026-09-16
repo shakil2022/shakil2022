@@ -4,14 +4,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=100&pause=1800&color=5B8DB8&center=true&vCenter=true&width=700&height=60&lines=Md.+Shakil+Ahmed"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=110&pause=900&deleteSpeed=60&color=6F8FAF&center=true&vCenter=true&width=700&height=60&lines=Md.+Shakil+Ahmed&loop=true"
     alt="Md. Shakil Ahmed"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=80&pause=1000&color=7A8FA6&center=true&vCenter=true&width=850&height=50&lines=Federated+Learning;Privacy--Preserving+AI;Cybersecurity;Machine+Learning;Deep+Learning;Healthcare+AI;Computer+Vision;Trustworthy+AI;Large+Language+Models"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=90&pause=800&deleteSpeed=50&color=7A8FA6&center=true&vCenter=true&width=850&height=55&lines=Federated+Learning;Privacy--Preserving+AI;Cybersecurity;Machine+Learning;Deep+Learning;Healthcare+AI;Computer+Vision;Trustworthy+AI;Large+Language+Models&loop=true"
     alt="Research Interests"
   />
 </p>
@@ -61,7 +61,9 @@
 </p>
 
 ---
-## 👨‍🏫 About
+
+---
+## About
 
 I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA"> Lercturer </a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**.
 
