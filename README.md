@@ -15,6 +15,50 @@
     alt="Research Interests"
   />
 </p>
+
+<p align="center">
+  <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">
+    <img
+      src="https://img.shields.io/badge/Lecturer%20%7C%20Researcher-B0BEC5?style=flat-square&logo=academia&logoColor=white"
+      alt="Lecturer | Researcher"
+    />
+  </a>
+
+  <a href="https://scholar.google.com/citations?user=jIomJygAAAAJ&hl=en&authuser=3">
+    <img
+      src="https://img.shields.io/badge/Google%20Scholar-90CAF9?style=flat-square&logo=google-scholar&logoColor=white"
+      alt="Google Scholar"
+    />
+  </a>
+
+  <a href="https://drive.google.com/file/d/1oUigeDcqmuj3GcNea-qWb7sfzcFR-XMn/view?usp=drive_link">
+    <img
+      src="https://img.shields.io/badge/CV-B0BEC5?style=flat-square&logo=readthedocs&logoColor=white"
+      alt="Curriculum Vitae"
+    />
+  </a>
+
+  <a href="mailto:shakil.ahmed@bubt.edu.bd">
+    <img
+      src="https://img.shields.io/badge/Email-C5AFAF?style=flat-square&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://www.linkedin.com/in/md-shakil-ahmed-6482b13b3/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-90A4AE?style=flat-square&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+
+  <a href="https://github.com/shakil2022">
+    <img
+      src="https://img.shields.io/badge/GitHub-78909C?style=flat-square&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
 ## About
 
 I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA"> Lercturer </a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**.
