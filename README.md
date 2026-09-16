@@ -45,11 +45,6 @@ and Healthcare AI**.
 
 ### 🛡️ Privacy & Security
 
-<img src="https://img.shields.io/badge/Privacy--Preserving%20ML-6A1B9A?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cybersecurity-8E24AA?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Federated%20Unlearning-AB47BC?style=flat-square&logoColor=white"/>
 
 </td>
 
@@ -57,11 +52,6 @@ and Healthcare AI**.
 
 ### 🌐 Federated Learning
 
-<img src="https://img.shields.io/badge/Federated%20Learning-1565C0?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Federated%20Semi--Supervised%20Learning-1976D2?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Distributed%20ML-42A5F5?style=flat-square&logoColor=white"/>
 
 </td>
 
@@ -69,11 +59,6 @@ and Healthcare AI**.
 
 ### 🧠 AI & Healthcare
 
-<img src="https://img.shields.io/badge/Machine%20Learning-00897B?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Healthcare%20AI-009688?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Explainable%20AI-26A69A?style=flat-square&logoColor=white"/>
 
 </td>
 </tr>
@@ -83,9 +68,6 @@ and Healthcare AI**.
 
 ### 👁️ Computer Vision
 
-<img src="https://img.shields.io/badge/Computer%20Vision-E65100?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Image%20Processing-F57C00?style=flat-square&logoColor=white"/>
 
 </td>
 
@@ -93,9 +75,6 @@ and Healthcare AI**.
 
 ### 📊 Data-Efficient Learning
 
-<img src="https://img.shields.io/badge/Semi--Supervised%20Learning-2E7D32?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Active%20Learning-388E3C?style=flat-square&logoColor=white"/>
 
 </td>
 
@@ -103,9 +82,6 @@ and Healthcare AI**.
 
 ### 🔐 Trustworthy AI
 
-<img src="https://img.shields.io/badge/Secure%20AI-455A64?style=flat-square&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Robust%20ML-607D8B?style=flat-square&logoColor=white"/>
 
 </td>
 </tr>
@@ -113,28 +89,6 @@ and Healthcare AI**.
 
 ---
 
-## 🎯 Current Research Direction
-
-My current research interests include:
-
-- **Privacy-preserving Federated Learning**
-- **Federated Semi-Supervised Learning**
-- **Federated Unlearning**
-- **Differential Privacy**
-- **Secure and Robust Machine Learning**
-- **Data-Efficient Learning**
-- **Healthcare AI**
-- **Explainable Artificial Intelligence**
-- **Computer Vision and Image Processing**
-- **Cybersecurity and Trustworthy AI**
-
----
-
-## 📚 Publications
-
-My research includes work on **Federated Learning, Parkinson's Disease
-classification, active learning, privacy-preserving machine learning,
-computer vision, image forgery detection, and healthcare AI**.
 
 ### 🔗 Full Publication List
 
@@ -142,25 +96,7 @@ computer vision, image forgery detection, and healthcare AI**.
 
 ---
 
-## 🧪 Selected Research Projects
 
-### 🧠 Parkinson's Disease Classification
-
-Machine learning and privacy-preserving learning approaches for
-Parkinson's disease classification, including **active learning,
-semi-supervised learning, federated learning, and explainable AI**.
-
-### 🔐 Privacy-Preserving Federated Learning
-
-Research on distributed machine learning that enables collaborative model
-training while reducing the need to share sensitive raw data.
-
-### 👁️ Computer Vision & Image Processing
-
-Deep learning approaches for **image classification, object detection,
-image forgery detection, and medical image analysis**.
-
----
 
 ## 💻 Featured Projects
 
@@ -172,19 +108,6 @@ image forgery detection, and medical image analysis**.
 | 🔐 Federated Learning | Privacy-preserving and distributed machine learning research |
 
 ---
-
-## 🛠️ Technical Skills
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
 
 ---
 
