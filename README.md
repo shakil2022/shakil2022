@@ -17,12 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">
-    <img
-      src="https://img.shields.io/badge/Lecturer%20%7C%20Researcher-B0BEC5?style=flat-square&logo=academia&logoColor=white"
-      alt="Lecturer | Researcher"
-    />
-  </a>
+
 
   <a href="https://scholar.google.com/citations?user=jIomJygAAAAJ&hl=en&authuser=3">
     <img
