@@ -24,68 +24,11 @@
 
 ## 👨‍🏫 About Me
 
-I am a **Lecturer** in the Department of Computer Science and Engineering at  
-**Bangladesh University of Business and Technology (BUBT)**.
+I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA"> **Lecturer** </a> in the Department of Computer Science and Engineering at  
+<a href="https://bubt.edu.bd/"> **Bangladesh University of Business and Technology (BUBT)** </a>.
 
-My research focuses on developing **privacy-preserving, secure, robust, and
-data-efficient machine learning systems**, particularly for healthcare and
-other sensitive applications.
-
-I am particularly interested in **Federated Learning, Privacy-Preserving
-Machine Learning, Federated Unlearning, Cybersecurity, Computer Vision,
-and Healthcare AI**.
-
----
-
-## 🔬 Research Interests
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### 🛡️ Privacy & Security
-
-
-</td>
-
-<td align="center" width="33%">
-
-### 🌐 Federated Learning
-
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 AI & Healthcare
-
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 👁️ Computer Vision
-
-
-</td>
-
-<td align="center">
-
-### 📊 Data-Efficient Learning
-
-
-</td>
-
-<td align="center">
-
-### 🔐 Trustworthy AI
-
-
-</td>
-</tr>
-</table>
+My research focuses on developing **Cyber Security, Federated Learning, Privacy-Preserving and Trustworthy AI, Large Language Model, Machine
+Learning, Deep Learning, Healthcare AI, Computer Vision**
 
 ---
 
