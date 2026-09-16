@@ -60,11 +60,11 @@
 I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">Lecturer</a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**. I am passionate about **teaching, research, and developing practical intelligent solutions** to real-world problems. I actively work on **academic research, collaborative projects, and software development**, while contributing to undergraduate education through teaching and mentoring.
 
 <p align="center">
-  <strong>Interest:</strong>
-  <sub><i>
+  <strong>Interests:</strong>
+  <em>
     Cyber Security · Federated Learning · Privacy-Preserving &amp; Trustworthy AI ·
     Large Language Models · Machine Learning · Deep Learning · Healthcare AI · Computer Vision
-  </i></sub>
+  </em>
 </p>
 
 ## Publication
