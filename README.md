@@ -6,13 +6,13 @@
   <a href="https://scholar.google.com/citations?user=jIomJygAAAAJ&hl=en&authuser=3">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/>
   </a>
-  <a href="YOUR_CV_LINK">
+  <a href="https://drive.google.com/file/d/1oUigeDcqmuj3GcNea-qWb7sfzcFR-XMn/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Curriculum%20Vitae-8B0000?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   <a href="mailto:shakil.ahmed@bubt.edu.bd">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/md-shakil-ahmed-6482b13b3/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/shakil2022">
