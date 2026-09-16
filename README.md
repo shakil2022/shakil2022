@@ -61,7 +61,13 @@ I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-en
 
 I actively work on **academic research, collaborative projects, and software development**, while contributing to undergraduate education through teaching, mentoring, and academic activities. I am always interested in **research collaboration, knowledge sharing, and opportunities to contribute to meaningful advancements in computer science and intelligent technologies.**
 
+
 ---
+
+## Publication
+
+Full Publication List **[Google Scholar](https://scholar.google.com/citations?user=jIomJygAAAAJ&hl=en&authuser=3)**
+
 
 ## 💻 Selected Projects
 
