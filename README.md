@@ -57,11 +57,16 @@
 
 ## About
 
-I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">Lecturer</a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**. I am passionate about **teaching, research, and developing practical intelligent solutions** to real-world problems. My academic and professional work combines computer science fundamentals with modern computational approaches, with an emphasis on building reliable and impactful technologies.
+## About
 
-I actively work on **academic research, collaborative projects, and software development**, while contributing to undergraduate education through teaching, mentoring, and academic activities. I am always interested in **research collaboration, knowledge sharing, and opportunities to contribute to meaningful advancements in computer science and intelligent technologies.**
+I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">Lecturer</a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**. I am passionate about **teaching, research, and developing practical intelligent solutions** to real-world problems. I actively work on **academic research, collaborative projects, and software development**, while contributing to undergraduate education through teaching and mentoring.
 
-
+<p align="center">
+  <sub><i>
+    Cyber Security · Federated Learning · Privacy-Preserving & Trustworthy AI ·
+    Large Language Models · Machine Learning · Deep Learning · Healthcare AI · Computer Vision
+  </i></sub>
+</p>
 ---
 
 ## Publication
@@ -69,7 +74,7 @@ I actively work on **academic research, collaborative projects, and software dev
 Full Publication List **[Google Scholar](https://scholar.google.com/citations?user=jIomJygAAAAJ&hl=en&authuser=3)**
 
 
-## 💻 Selected Projects
+## Selected Projects
 
 | **Repository**                                                                                | **Description**                                                                                                                                                                                           |
 | :-------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
