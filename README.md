@@ -4,14 +4,14 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=110&pause=900&deleteSpeed=60&color=6F8FAF&center=true&vCenter=true&width=700&height=60&lines=Md.+Shakil+Ahmed&loop=true"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=110&pause=1800&deleteSpeed=60&color=6F8FAF&center=true&vCenter=true&width=700&height=60&lines=Md.+Shakil+Ahmed&loop=true"
     alt="Md. Shakil Ahmed"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=90&pause=800&deleteSpeed=50&color=7A8FA6&center=true&vCenter=true&width=850&height=55&lines=Federated+Learning;Privacy--Preserving+AI;Cybersecurity;Machine+Learning;Deep+Learning;Healthcare+AI;Computer+Vision;Trustworthy+AI;Large+Language+Models&loop=true"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=70&pause=2200&deleteSpeed=45&color=7A8FA6&center=true&vCenter=true&width=1100&height=50&lines=Federated+Learning+%C2%B7+Privacy--Preserving+AI+%C2%B7+Cybersecurity+%C2%B7+Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+Healthcare+AI+%C2%B7+Computer+Vision+%C2%B7+Trustworthy+AI+%C2%B7+Large+Language+Models&loop=true"
     alt="Research Interests"
   />
 </p>
