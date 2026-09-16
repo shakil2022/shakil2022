@@ -59,16 +59,16 @@
     />
   </a>
 </p>
+
 ## About
 
-I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA"> Lercturer </a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**.
+I am a <a href="https://bubt.edu.bd/department/department-of-computer-science-engineering/faculty/profile/MDSHA">Lecturer</a> in the Department of Computer Science and Engineering at **[Bangladesh University of Business and Technology (BUBT)](https://bubt.edu.bd/)**.
 
 My research focuses on developing **secure, privacy-preserving, trustworthy, and data-efficient intelligent systems**, with particular interests in:
 
 **🔐 Cybersecurity · 🌐 Federated Learning · 🛡️ Privacy-Preserving AI · 🤖 Machine Learning · 🧠 Deep Learning · 🏥 Healthcare AI · 👁️ Computer Vision · ✨ Trustworthy AI · 🧩 Large Language Models**
 
 ---
-
 
 ---
 
