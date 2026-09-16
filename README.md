@@ -12,7 +12,6 @@
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=20&duration=650&pause=4000&deleteSpeed=320&color=90A4AE&center=true&vCenter=true&width=1100&height=55&lines=Research;Cyber+Security+%C2%B7+Federated+Learning+%C2%B7+Large+Language+Model+%C2%B7+Machine+Learning&loop=true"
-    alt="Research"
   />
 </p>
 
