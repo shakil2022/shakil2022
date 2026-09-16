@@ -96,33 +96,13 @@ and Healthcare AI**.
 
 ---
 
-## 💻 Featured Projects
+## Projects
 
-### 📚 Learning Management System
-**React · Node.js · Express · MongoDB**
-
-> A role-based learning management system that enables instructors to schedule and manage course content releases according to diverse teaching strategies. The platform also facilitates collaborative discussions and real-time communication among users.
-
-[![GitHub Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakil2022/Learning-Management-System)
-
----
-
-### 🛒 Ecommerce Website
-**HTML · CSS · React · JavaScript · Express.js · Node.js · MongoDB**
-
-> A role-based university cafeteria platform for online food ordering, with dedicated modules for managing menus, users, orders, payments, inventory, and deliveries.
-
-[![GitHub Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakil2022/Ecommerce-Website)
-
----
-
-### 📱 QR Code Scanner
-**Java · Android**
-
-> An Android application for generating QR codes from text and scanning QR codes to decode and display the encoded information.
-
-[![GitHub Repository](https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shakil2022/QR-Code-Scanner-main)
-
+| **Repo** | **Description** |
+|---|---|
+| [**Learning-Management-System**](https://github.com/shakil2022/Learning-Management-System) | Role-based learning management system for scheduling and managing course content, with collaborative discussions and real-time communication · *React, Node.js, Express, MongoDB* |
+| [**Ecommerce-Website**](https://github.com/shakil2022/Ecommerce-Website) | Role-based university cafeteria platform for online food ordering, with modules for menus, users, orders, payments, inventory, and deliveries · *HTML, CSS, React, JavaScript, Express.js, Node.js, MongoDB* |
+| [**QR-Code-Scanner-main**](https://github.com/shakil2022/QR-Code-Scanner-main) | Android application for generating QR codes from text and scanning QR codes to decode and display encoded information · *Java (Android)* |
 ---
 
 ## 📈 GitHub Activity
