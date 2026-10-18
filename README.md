@@ -26,9 +26,11 @@
     />
   </a>
 
-  <a href="https://drive.google.com/file/d/1oUigeDcqmuj3GcNea-qWb7sfzcFR-XMn/view?usp=drive_link">
+  </a>
+
+  <a href="https://drive.google.com/file/d/1oUigeDcqmuj3GcNea-qWb7sfzcFR-XMn/view">
     <img
-      src="[https://img.shields.io/badge/CV-B0BEC5?style=flat-square&logo=readthedocs&logoColor=white](https://shakil2022.github.io/Shakil_Portfolio/assets/pdf/example_pdf.pdf)"
+      src="https://img.shields.io/badge/CV-B0BEC5?style=flat-square&logo=readthedocs&logoColor=white"
       alt="Curriculum Vitae"
     />
   </a>
