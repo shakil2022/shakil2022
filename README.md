@@ -28,7 +28,7 @@
 
   </a>
 
-  <a href="https://drive.google.com/file/d/1oUigeDcqmuj3GcNea-qWb7sfzcFR-XMn/view">
+  <a href="[https://drive.google.com/file/d/1oUigeDcqmuj3GcNea-qWb7sfzcFR-XMn/view](https://drive.google.com/file/d/19m5lwQHzOIzNS8mLTrDkLwSNd631p2OK/view?usp=sharing)">
     <img
       src="https://img.shields.io/badge/CV-B0BEC5?style=flat-square&logo=readthedocs&logoColor=white"
       alt="Curriculum Vitae"
