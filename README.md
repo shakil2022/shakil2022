@@ -28,7 +28,7 @@
 
   <a href="https://drive.google.com/file/d/1oUigeDcqmuj3GcNea-qWb7sfzcFR-XMn/view?usp=drive_link">
     <img
-      src="https://img.shields.io/badge/CV-B0BEC5?style=flat-square&logo=readthedocs&logoColor=white"
+      src="[https://img.shields.io/badge/CV-B0BEC5?style=flat-square&logo=readthedocs&logoColor=white](https://shakil2022.github.io/Shakil_Portfolio/assets/pdf/example_pdf.pdf)"
       alt="Curriculum Vitae"
     />
   </a>
